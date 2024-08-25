@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	db "github.com/kevtl/simplebank/db/sqlc"
+	db "github.com/kvgtl/simplebank/db/sqlc"
 	"github.com/lib/pq"
 )
 
